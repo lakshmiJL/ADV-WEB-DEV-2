@@ -4,7 +4,7 @@ window.onload = function() {
   // Your web app's Firebase configuration
   
   var firebaseConfig = {
-    apiKey: "AIzaSyClZYwnm-lChcqEKWoYfeqM5Ri1qAfxoGk",
+    apiKey: "ADD API KEY HERE",
     authDomain: "chatapp3-7eb8b.firebaseapp.com",
     databaseURL: "https://chatapp3-7eb8b-default-rtdb.asia-southeast1.firebasedatabase.app",
     projectId: "chatapp3-7eb8b",
